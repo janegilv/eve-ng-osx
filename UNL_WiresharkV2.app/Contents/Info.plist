@@ -22,7 +22,7 @@
 	<string>1.0</string>
 	<key>CFBundleSignature</key>
 	<string>aplt</string>
-		<key>CFBundleURLTypes</key>
+	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
 			<key>CFBundleURLName</key>
@@ -55,7 +55,7 @@
 		<key>positionOfDivider</key>
 		<real>340</real>
 		<key>savedFrame</key>
-		<string>82 671 1471 591 0 0 2560 1417 </string>
+		<string>0 237 1440 591 0 0 1440 877 </string>
 		<key>selectedTab</key>
 		<string>result</string>
 	</dict>
