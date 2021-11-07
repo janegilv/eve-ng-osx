@@ -12,3 +12,4 @@ This is somehow weird. To make changes:
  * Save first might not be necessary
 * Run script
 * To make new changes. Delete/reset the file and start this process from beginning.
+* In Big Sur the applescript file must be added to accessibility in "System Preferences - Security & Privacy - Privacy - Accessibility". This is in order to create tabs in terminal using keyboard command +t.
