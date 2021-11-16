@@ -4,7 +4,15 @@ Modified to only use one terminal window, and hide contents afterwards.
 
 Uses terminal profile called close-on-exit. This must be created manually. Make this profile close on exit.
 
-#### Making changes
+#### Preparing iterm2 for opening telnet link
+* Install telnet with homebrew
+* Create new profile called telnet
+* Select Command -> Command
+* (Must symlink before next step, can change this to homebrew original?)
+* Enter "/usr/local/bin/telnet $$HOST$$ $$PORT$$"
+* URL Schemes: Schemes handled: select telnet here
+
+#### Making changes to the applescript
 This is somehow weird. To make changes:
 * Download or unzip file. DO NOT RUN IT YET.
 * Open file in apple script editor
